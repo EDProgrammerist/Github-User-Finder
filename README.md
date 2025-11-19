@@ -3,7 +3,7 @@
 <div align="center">
 <br />
 <a href="" target="_blank">
-   <img width="1280" height="720" alt="githubfinder" src="" />
+   <img width="1280" height="720" alt="githubfinder" src="https://github.com/EDProgrammerist/Github-User-Finder/blob/master/Preview.png?raw=true" />
 
 </a>
 <br />
